@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e8d451a183a666a44825d152bf1bcf86
+guid: 6d509533452f8a54eb374ce6dd0234df
 TextureImporter:
   fileIDToRecycleName:
-    21300000: artesano-chorizo
-    21300002: artesano-chorizo 1
-    21300004: artesano-chorizo 2
+    21300000: granjero
+    21300002: granjero 1
+    21300004: background
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0

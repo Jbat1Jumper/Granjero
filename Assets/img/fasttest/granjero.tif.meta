@@ -1,11 +1,8 @@
 fileFormatVersion: 2
-guid: 73eec1287d932b540a223fd15fccbdb1
+guid: f381724f43638754dafe234a618ab111
 TextureImporter:
   fileIDToRecycleName:
-    21300000: artesano-chorizo
-    21300002: artesano-chorizo 1
-    21300004: artesano-chorizo 2
-    21300006: artesano-chorizo 3
+    21300000: granjero
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -29,9 +26,9 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: 1
+    aniso: -1
     mipBias: -1
-    wrapMode: 1
+    wrapMode: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
